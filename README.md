@@ -219,5 +219,8 @@ SAVEE | 98.95% | ~96%
 
 ## 📚 Citation
 If you use this work in your research, please cite:
-
 Ahammed, M. et al. (2024). Speech Emotion Recognition: An Empirical Analysis of Machine Learning Algorithms Across Diverse Data Sets. In: Mahmud, M., Ben-Abdallah, H., Kaiser, M.S., Ahmed, M.R., Zhong, N. (eds) Applied Intelligence and Informatics. AII 2023. Communications in Computer and Information Science, vol 2065. Springer, Cham. https://doi.org/10.1007/978-3-031-68639-9_3.
+
+# 📬 Contact
+### 📧 mostafizs154@gmail.com
+### 🔗 [LinkedIn](https://www.linkedin.com/in/mostafiz-ahammed-7b4266106/)
